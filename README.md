@@ -13,7 +13,17 @@ store completion events and analyse habit streaks.
 
 ## Download
 
-Download or clone this repository and open the project folder in a terminal.
+Clone the repository:
+
+```bash
+git clone https://github.com/zj9vj9hzr2-cpu/oofpp-habit-tracker.git
+```
+
+Then open the project folder:
+
+```bash
+cd oofpp-habit-tracker
+```
 
 No additional installation is required.
 
